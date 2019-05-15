@@ -18,6 +18,9 @@
 
 - [Prophet (Facebook)](https://github.com/facebook/prophet) (Library)
 
+## Keras
+- [KEKOxTutorial](https://github.com/KerasKorea/KEKOxTutorial) (Tutorial)
+
 ## Etc
 - [medium - open-machine-learning-course](https://medium.com/open-machine-learning-course)
 
