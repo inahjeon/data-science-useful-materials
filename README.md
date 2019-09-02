@@ -2,6 +2,7 @@
 
 ## Datasets
 - [AI Hub](http://www.aihub.or.kr/)
+- [waymo](https://waymo.com/open/)
 
 ## Deep Learning
 
@@ -14,6 +15,9 @@
 
 - [fastText (Facebook)](https://github.com/facebookresearch/fastText/) (Library)
 
+## RL
+- [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
+
 ## Time-Series
 - [Forecasting: Principles and Practice](https://otexts.com/fppkr/index.html) :book:
 
@@ -24,7 +28,12 @@
 ## Keras
 - [KEKOxTutorial](https://github.com/KerasKorea/KEKOxTutorial) (Tutorial)
 
+## ML Ops tools
+- [https://github.com/EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+
 ## Etc
 - [medium - open-machine-learning-course](https://medium.com/open-machine-learning-course)
 
 - [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다.](https://www.slideshare.net/yongho/ss-79607172)
+
+- [https://github.com/jeongyoonlee/Kaggler](https://github.com/jeongyoonlee/Kaggler)
