@@ -15,6 +15,8 @@
 
 - [fastText (Facebook)](https://github.com/facebookresearch/fastText/) (Library)
 
+- [네이버, 창원대가 함께하는 NLP Challenge](https://github.com/naver/nlp-challenge)
+
 ## RL
 - [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
 
@@ -37,3 +39,5 @@
 - [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다.](https://www.slideshare.net/yongho/ss-79607172)
 
 - [https://github.com/jeongyoonlee/Kaggler](https://github.com/jeongyoonlee/Kaggler)
+
+- [dvc: data version control](https://github.com/iterative/dvc)
