@@ -4,6 +4,9 @@
 - [AI Hub](http://www.aihub.or.kr/)
 - [waymo](https://waymo.com/open/)
 
+## Machine Learning
+- [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://icenamor.github.io/files/books/Hands-on-Machine-Learning-with-Scikit-2E.pdf)
+
 ## Deep Learning
 
 - [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
