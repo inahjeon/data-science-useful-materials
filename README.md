@@ -28,6 +28,8 @@
 
 - [네이버, 창원대가 함께하는 NLP Challenge](https://github.com/naver/nlp-challenge)
 
+- [https://github.com/aisolab/nlp_implementation](https://github.com/aisolab/nlp_implementation)
+
 ## RL
 - [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
 
