@@ -7,6 +7,13 @@
 
 - [korquad 2.0](https://korquad.github.io)
 
+## Kaggle
+- [캐글 코리아 캐글 스터디 커널 커리큘럼](https://kaggle-kr.tistory.com/32)
+
+- [Data Science Glossary on Kaggle](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)
+
+- [Winning solutions of kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
+
 ## Machine Learning
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://icenamor.github.io/files/books/Hands-on-Machine-Learning-with-Scikit-2E.pdf)
 
@@ -18,6 +25,8 @@
 > [번역](https://medium.com/@bntejn/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%ED%95%99%EC%8A%B5-%EB%A0%88%EC%8B%9C%ED%94%BC-%EB%B2%88%EC%97%AD-70c5e58341ec)
 
 - [딥러닝 스터디 자료 모음](https://bbongcol.github.io/deep-learning-bookmarks/)
+
+- [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
 
 ## NLP
 - [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) :book:
