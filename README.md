@@ -28,6 +28,8 @@
 
 - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
 
+- [PR12 딥러닝 논문읽기 모임-논문요약](https://github.com/taeoh-kim/pr12)
+
 ## NLP
 - [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) :book:
 
