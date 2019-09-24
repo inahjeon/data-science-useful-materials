@@ -31,6 +31,8 @@
 - [PR12 딥러닝 논문읽기 모임-논문요약](https://github.com/taeoh-kim/pr12)
 
 ## NLP
+- [https://github.com/graykode/nlp-roadmap](https://github.com/graykode/nlp-roadmap)
+
 - [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) :book:
 
 - [Natural Language Processing with PyTorch](https://kh-kim.gitbook.io/natural-language-processing-with-pytorch/) :book:
@@ -39,7 +41,11 @@
 
 - [네이버, 창원대가 함께하는 NLP Challenge](https://github.com/naver/nlp-challenge)
 
+- [KoBERT](https://github.com/SKTBrain/KoBERT?fbclid=IwAR2hCM-7zQnJ-XRtJU6INJ6kQt51xbJjMri_7dC2cxYfW-F3WSPmUsEB-wY)
+
 - [https://github.com/aisolab/nlp_implementation](https://github.com/aisolab/nlp_implementation)
+
+-[https://github.com/graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial)
 
 ## RL
 - [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
