@@ -7,6 +7,8 @@
 
 - [korquad 2.0](https://korquad.github.io)
 
+- [PAWS-X](https://github.com/google-research-datasets/paws/tree/master/pawsx)
+
 ## Kaggle
 - [캐글 코리아 캐글 스터디 커널 커리큘럼](https://kaggle-kr.tistory.com/32)
 
@@ -16,6 +18,8 @@
 
 ## Machine Learning
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://icenamor.github.io/files/books/Hands-on-Machine-Learning-with-Scikit-2E.pdf)
+
+- [머신러닝 인터뷰 준비](https://docs.google.com/document/d/10bJK8S4T7sBIP-pzdQm9xRpW0HcLsrh6D047pE_kFE8/mobilebasic)
 
 ## Deep Learning
 
@@ -34,6 +38,8 @@
 
 ## NLP
 - [https://github.com/graykode/nlp-roadmap](https://github.com/graykode/nlp-roadmap)
+
+- [https://github.com/thunlp/PLMpapers](https://github.com/thunlp/PLMpapers/blob/master/README.md)
 
 - [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) :book:
 
@@ -78,3 +84,5 @@
 - [https://github.com/jeongyoonlee/Kaggler](https://github.com/jeongyoonlee/Kaggler)
 
 - [dvc: data version control](https://github.com/iterative/dvc)
+
+- [그로스해킹 강의안](https://drive.google.com/drive/u/0/folders/1N9b-ZVoIHH4DOQbnseslCFU-6rlnlH7o)
